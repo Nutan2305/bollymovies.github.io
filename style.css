@@ -30,7 +30,7 @@ main{
 }
 @media screen and (max-width: 380px) {
     *{
-    margin: 5px 5px 5px 5px;   
+    margin: 5px 1px 5px 1px;   
     padding-left: 1px;
     padding-right: 1px;
     }
