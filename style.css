@@ -40,26 +40,26 @@ main{
     margin-right: 8px;
     margin-top: 3px;
     padding:3px;
-    width: 100%;height: 8vh;
+    width: 100%;height: 9vh;
     background-color: teal;
     color:white; display:flex; 
     font-family: 'Handlee', cursive;
 
     }
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 500px) {
     *{
     margin: 2px 8px 2px 5px;   
     padding-left: 1px;
-    padding-right: 1px;
+    padding-right: 0px;
     }
     .header{
     overflow: hidden;
     text-align:right;
-    margin-right: 8px;
+    margin-right: 13px;
     margin-top: 3px;
     padding:3px;
-    width: 100%;height: 5vh;
+    width: 100%;height: vh;
     background-color: teal;
     color:white; display:flex; 
     font-family: 'Handlee', cursive;
