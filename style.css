@@ -7,9 +7,9 @@
 
 .header{
     overflow: hidden;
-    width: 100%;height: 15vh;
+    width: 100%;height: 20vh;
     background-color: teal;
-    /* padding: 20px; */
+    padding: 20px;
     text-align: center;
     color:white; display:flex; 
     font-family: 'Handlee', cursive;
@@ -40,7 +40,26 @@ main{
     margin-right: 8px;
     margin-top: 3px;
     padding:3px;
-    width: 100%;height: 10vh;
+    width: 100%;height: 8vh;
+    background-color: teal;
+    color:white; display:flex; 
+    font-family: 'Handlee', cursive;
+
+    }
+}
+@media screen and (max-width: 700px) {
+    *{
+    margin: 2px 8px 2px 5px;   
+    padding-left: 1px;
+    padding-right: 1px;
+    }
+    .header{
+    overflow: hidden;
+    text-align:right;
+    margin-right: 8px;
+    margin-top: 3px;
+    padding:3px;
+    width: 100%;height: 5vh;
     background-color: teal;
     color:white; display:flex; 
     font-family: 'Handlee', cursive;
