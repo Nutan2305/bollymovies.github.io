@@ -31,7 +31,8 @@ main{
 @media screen and (max-width: 380px) {
     *{
     margin: 5px 10px 5px 10px;   
-    padding: auto;
+    padding-left: 3px;
+    padding-right: 3px;
     }
     .header{
     overflow: hidden;
