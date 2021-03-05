@@ -9,7 +9,8 @@
     overflow: hidden;
     width: 100%;height: 20vh;
     background-color: teal;
-    padding: 20px;
+    /* padding: 20px; */
+    text-align: center;
     color:white; display:flex; 
     font-family: 'Handlee', cursive;
 
@@ -26,4 +27,15 @@ main{
         max-width: 850px;
         height: auto;
       
+}
+@media screen and (max-width: 400px) {
+    *{
+        margin: 0px 5px 0px 7px;
+    
+    padding-left: 0px;
+    padding-right: 0px;
+    }
+    /* main {
+      width: 100%; 
+    } */
 }
