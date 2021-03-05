@@ -47,7 +47,7 @@ main{
 
     }
 }
-@media screen and (max-width: 800px ) and (min-width : 400px) {
+@media screen and (max-width: 800px ) and (min-width : 500px) {
     *{
     margin: 3px 7px 2px 7px;   
     padding-left: 1px;
